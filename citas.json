@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "El Pepe",
+    "edad": "4 años",
+    "animal": "gato",
+    "color": "blanco con manchas café",
+    "enfermedad": "estirilización"
+  },
+  {
+    "nombre": "Mini",
+    "edad": "9 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "herida por mordedura"
+  }
+]
